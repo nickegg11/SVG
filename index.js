@@ -19,3 +19,31 @@ class Svg {
         this.shapeElement = shape.render()
     }
 }
+
+// Questions inquirer will use to specify the properties of the object
+const questions = [
+    {
+        type: "input",
+        name: "text",
+        message: "Please Enter up to 3 Characters:",
+    },
+
+    {
+        type: "input",
+        name: "text color",
+        message: "Please Enter a valid color for text:",
+    },
+
+    {
+        type: "input",
+        name: "shape color",
+        message: "Please Enter a valid color for shape:",
+    },
+
+    {
+        type: "list",
+        name: "shape",
+        message: "Please Choose from list below the shape you would like to implement",
+        choices: ["Circle", "Square", "Triangle"],
+    },
+];
