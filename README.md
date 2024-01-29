@@ -30,5 +30,10 @@ Before you can run SVG Logo Maker, ensure you have the following installed:
 
 ## Links
 
-<https://drive.google.com/file/d/1yptVegSiawBw7lzMvPXLysKINm2GZ5nk/view>
-<https://github.com/nickegg11/SVG>
+Video:
+
+- <https://drive.google.com/file/d/1yptVegSiawBw7lzMvPXLysKINm2GZ5nk/view>
+
+Github repo:
+
+- <https://github.com/nickegg11/SVG>
